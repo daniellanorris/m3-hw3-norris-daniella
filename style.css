@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: hotpink;
+    background-color: #fe48fe;
 }
 
 .ab1, .ab2 {
@@ -35,5 +35,5 @@ caption {
 }
 
  a {
-    color: whitesmoke;
+    color: white;
 }
