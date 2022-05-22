@@ -1,7 +1,5 @@
 # m3-hw3-norris-daniella
 
-![Image](screenshot 1 for her's.png "screenshot")
+![picture alt](
+https://github.com/daniellanorris/m3-hw3-norris-daniella/blob/1e8447b9a136615673602b4b0217581a6a8c9748/screenshot%201%20for%20her's.png)
 
-![Image](screenshot 2 for her's.png "screenshot")
-
-![Image](screenshot 3 for her's.png "screenshot")
